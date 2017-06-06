@@ -1,4 +1,4 @@
-A quick demo on how to break lambda containers by keeping things in global state.
+In case your programming teacher forgot to tell you 'global state is evil'. A quick demo on how to break lambda containers by keeping things in global state.
 
 ## Handlers
 
