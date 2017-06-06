@@ -1,4 +1,4 @@
-In case your programming teacher forgot to tell you 'global state is evil'. A quick demo on how to break lambda containers by keeping things in global state.
+In case your programming teacher forgot to tell you 'global scope is evil'. A quick demo on how to break lambda containers by keeping things in global state.
 
 ## Handlers
 
@@ -6,10 +6,10 @@ In case your programming teacher forgot to tell you 'global state is evil'. A qu
 Handler that does no evil.
 
 ### [bad.js](bad.js)
-Handler that uses global state(evil) without unwanted side-effects.
+Handler that uses global scope without unwanted side-effects.
 
 ### [ugly.js](ugly.js)
-Handler that uses global state that can be catastrophic for the container instance.
+Handler that uses global scope that can be catastrophic for the container instance.
 
 ## Demo
 
